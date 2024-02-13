@@ -16,5 +16,5 @@ Output:
 5 x 9 = 45
 5 x 10 = 50
 
-- Requisito:
-Se debe testear. Mínimo un test del método que retorna el array
+## Requisito:
+- Se debe testear. Mínimo un test del método que retorna el array
